@@ -1,0 +1,182 @@
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\bin\Debug\LogicaNegocio.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\bin\Debug\AccesoDatos.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.Resources.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.GenerateResource.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.vbproj.CopyComplete
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\LogicaNegocio\obj\Debug\LogicaNegocio.pdb

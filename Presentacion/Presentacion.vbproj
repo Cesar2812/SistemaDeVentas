@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B4A1EE59-055E-4A8D-A3D2-25CCB1546F6B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Presentacion.My.MyApplication</StartupObject>
+    <RootNamespace>Presentacion</RootNamespace>
+    <AssemblyName>Presentacion</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Presentacion.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.3\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrador\Factura.Designer.vb">
+      <DependentUpon>Factura.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Factura.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FormTelefonos.Designer.vb">
+      <DependentUpon>FormTelefonos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FormTelefonos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmCompra.Designer.vb">
+      <DependentUpon>FrmCompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmCompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmCorreo.Designer.vb">
+      <DependentUpon>FrmCorreo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmCorreo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmTelefono.Designer.vb">
+      <DependentUpon>FrmTelefono.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmTelefono.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\ListadoCategoria.Designer.vb">
+      <DependentUpon>ListadoCategoria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\ListadoCategoria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmCliente.Designer.vb">
+      <DependentUpon>FrmCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmUsuario.Designer.vb">
+      <DependentUpon>FrmUsuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmUsuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmProductos.Designer.vb">
+      <DependentUpon>FrmProductos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmProductos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmProveedor.Designer.vb">
+      <DependentUpon>FrmProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmCategorias.Designer.vb">
+      <DependentUpon>FrmCategorias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmCategorias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\ListadoCliente.Designer.vb">
+      <DependentUpon>ListadoCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\ListadoCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Listadocompra.Designer.vb">
+      <DependentUpon>Listadocompra.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Listadocompra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\ListadoVentas.Designer.vb">
+      <DependentUpon>ListadoVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\ListadoVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\ListadProveedor.Designer.vb">
+      <DependentUpon>ListadProveedor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\ListadProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\Menu_Configuracion.Designer.vb">
+      <DependentUpon>Menu_Configuracion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Menu_Configuracion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administrador\FrmVentas.Designer.vb">
+      <DependentUpon>FrmVentas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\FrmVentas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cajero\FrmAlmacen.Designer.vb">
+      <DependentUpon>FrmAlmacen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Cajero\FrmAlmacen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clases\Correo.vb" />
+    <Compile Include="Clases\EsportarpdfProveedor.vb" />
+    <Compile Include="Clases\ExportarExcel.vb" />
+    <Compile Include="Clases\Exportarpdf.vb" />
+    <Compile Include="Clases\ExportarpdfCategorias.vb" />
+    <Compile Include="Clases\ExportarpdfCliente.vb" />
+    <Compile Include="Clases\ExportarpdfListaCompras.vb" />
+    <Compile Include="Clases\ExportarpdfListadoVentas.vb" />
+    <Compile Include="Clases\ExportarpdfUsuario.vb" />
+    <Compile Include="Clases\Importar.vb" />
+    <Compile Include="Clases\MostrarebWeb.vb" />
+    <Compile Include="Menu.Designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModoAdmin.Designer.vb">
+      <DependentUpon>ModoAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModoAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ModoCajero.Designer.vb">
+      <DependentUpon>ModoCajero.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ModoCajero.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Principal\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Principal\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administrador\Factura.resx">
+      <DependentUpon>Factura.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FormTelefonos.resx">
+      <DependentUpon>FormTelefonos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmCompra.resx">
+      <DependentUpon>FrmCompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmCorreo.resx">
+      <DependentUpon>FrmCorreo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmTelefono.resx">
+      <DependentUpon>FrmTelefono.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\ListadoCategoria.resx">
+      <DependentUpon>ListadoCategoria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmCliente.resx">
+      <DependentUpon>FrmCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmProductos.resx">
+      <DependentUpon>FrmProductos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmProveedor.resx">
+      <DependentUpon>FrmProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmCategorias.resx">
+      <DependentUpon>FrmCategorias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\ListadoCliente.resx">
+      <DependentUpon>ListadoCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Listadocompra.resx">
+      <DependentUpon>Listadocompra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\ListadoVentas.resx">
+      <DependentUpon>ListadoVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\ListadProveedor.resx">
+      <DependentUpon>ListadProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\Menu_Configuracion.resx">
+      <DependentUpon>Menu_Configuracion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Administrador\FrmVentas.resx">
+      <DependentUpon>FrmVentas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cajero\FrmAlmacen.resx">
+      <DependentUpon>FrmAlmacen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModoAdmin.resx">
+      <DependentUpon>ModoAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModoCajero.resx">
+      <DependentUpon>ModoCajero.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LogicaNegocio\LogicaNegocio.vbproj">
+      <Project>{d37c688e-130d-432c-8163-fd7129d2f306}</Project>
+      <Name>LogicaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Productos.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton-eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Factura.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FacturaV.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Clientes.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Proveedor.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ojo.png" />
+    <None Include="Resources\ojo%281%29.png" />
+    <None Include="Resources\Usuario.html" />
+    <Content Include="Resources\Categorias.html" />
+    <Content Include="Resources\ExportarpdfListadoCompras.html" />
+    <Content Include="Resources\ExportarpdfListaVenta.html" />
+    <Content Include="Resources\Usuarios.html" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

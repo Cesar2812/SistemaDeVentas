@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Factura de Venta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-bottom: 20px;
+            border-bottom: 2px solid #007BFF;
+        }
+
+        h1 {
+            color: #007BFF;
+            margin: 0;
+        }
+
+        .invoice-number {
+            font-size: 18px;
+        }
+
+        .invoice-img img {
+            max-width: 150px;
+        }
+
+        .invoice-info {
+            text-align: right;
+        }
+
+        p {
+            color: #555;
+        }
+
+        .customer-info {
+            margin-top: 20px;
+        }
+
+        .invoice-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ccc;
+        }
+
+        th {
+            background-color: #007BFF;
+            color: #fff;
+        }
+
+        .totals {
+            margin-top: 20px;
+            text-align: right;
+        }
+
+        .total-amount {
+            font-size: 24px;
+            color: #007BFF;
+        }
+
+        .thank-you {
+            margin-top: 20px;
+            background-color: #4CAF50;
+            padding: 20px;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+            .thank-you p {
+                color: #fff;
+                font-size: 18px;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Factura de Venta</h1>
+            <!--<div class="invoice-img">
+                <img src="imagen_venta.jpg" alt="Imagen de Venta">
+            </div>-->
+            <div class="invoice-number">
+                <p><strong>Número de Factura:</strong> {NFactura}</p>
+            </div>
+        </div>
+
+        <div class="customer-info">
+            <p><strong>Cliente:</strong> {CodCliente}</p>
+            <p><strong>Fecha:</strong> {Fecha}</p>
+        </div>
+
+        <table class="invoice-table">
+            <thead>
+                <tr>
+                    <th>Código de Detalle</th>
+                    <th>Código de Producto</th>
+                    <th>Cantidad</th>
+                    <th>Monto por Producto</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí puedes incluir la información de la tabla de datos -->
+                {TablaDatos}
+            </tbody>
+        </table>
+
+        <div class="totals">
+            <div class="payment-info-left">
+                <p><strong>Pago con:</strong> {Pago}</p>
+            </div>
+            <p><strong>Subtotal:</strong> {Subtotal}</p>
+            <p><strong>Descuento:</strong> {Descuento}</p>
+            <p><strong>Cambio:</strong> {Cambio}</p>
+            <p class="total-amount"><strong>Total:</strong> {Total}</p>
+        </div>
+
+
+
+        <div class="thank-you">
+            <p><strong>¡Gracias por su compra!</strong></p>
+        </div>
+    </div>
+</body>
+</html>

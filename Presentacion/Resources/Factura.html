@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Factura de Compra</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 20px;
+        }
+
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #a0d9d9; /* Color de fondo celeste */
+            color: #000; /* Cambiamos el color del texto a negro */
+        }
+
+        h1, h2 {
+            color: #0077b6; /* Color de encabezados h1 azul */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Factura de Compra</h1>
+        <table>
+            <tr>
+                <th>Número de Factura</th>
+                <td>{NFactura}</td>
+            </tr>
+            <tr>
+                <th>Fecha</th>
+                <td>{Fecha}</td>
+            </tr>
+            <tr>
+                <th>Código del Proveedor</th>
+                <td>{CodProveedor}</td>
+            </tr>
+            <tr>
+                <th>Valor antes de descuento</th>
+                <td>{SubTotal}</td>
+            </tr>
+            <tr>
+                <th>Descuento</th>
+                <td>{Descuento}</td>
+            </tr>
+            <tr>
+                <th>Valor despues de descuento</th>
+                <td>{MontoTotal}</td>
+            </tr>
+        </table>
+
+        <h2>Detalle de la Compra</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Código de Detalle</th>
+                    <th>Factura</th>
+                    <th>Código de Producto</th>
+                    <th>Cantidad</th>
+                    <th>Monto por Producto</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí puedes incluir la información de la tabla de datos -->
+                {TablaDatos}
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

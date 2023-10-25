@@ -1,0 +1,566 @@
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Documents\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.Crear_Usuario.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\Mapache\Ventitas\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Crear_Usuario.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoVentas.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCaja.resources
+C:\Users\cesar\Documents\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCaja.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoVentas.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProcesos.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmConfiCliente.resources
+C:\Users\Dkey\Desktop\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmConfiProveedor.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProcesos.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\Desktop\OSO\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoProductosVentas.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProcesos.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoProductosVentas.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\Dkey\Downloads\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProcesos.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoProductosVentas.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\OneDrive\Escritorio\Oficial\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCrear_Usuario.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoProductosVentas.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\cesar\OneDrive\Escritorio\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoProductosVentas.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Avance pro\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoProductosVentas.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCAlmacen.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCCaja.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCReportes.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Dkey\Desktop\Avance pro 2\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Conteo.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoConta.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCompra.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmTelefono.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCliente.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Factura.resources
+C:\Users\cesar\OneDrive\Escritorio\Proavance\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Listadocompra.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Factura.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCompra.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmTelefono.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCliente.resources
+C:\Users\cesar\Desktop\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Listadocompra.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Factura.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCompra.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmTelefono.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCliente.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Listadocompra.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoVentas.resources
+C:\Users\cesar\OneDrive\Imágenes\Avance pro\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCorreo.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\itextsharp.dll
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\cesar\Desktop\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Factura.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCompra.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCorreo.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmTelefono.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCliente.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Listadocompra.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoVentas.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\cesar\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\Presentacion.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\itextsharp.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\LogicaNegocio.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\LogicaNegocio.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\LogicaNegocio.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\itextsharp.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\bin\Debug\AccesoDatos.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.ResolveComReference.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Factura.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FormTelefonos.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCompra.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCorreo.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmTelefono.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCategoria.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCliente.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmUsuario.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProductos.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmProveedor.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmCategorias.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoCliente.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Listadocompra.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadoVentas.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ListadProveedor.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Menu_Configuracion.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmVentas.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmAlmacen.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Menu.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ModoAdmin.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.ModoCajero.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.Resources.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.xml
+C:\Users\Cesar Cerda\Desktop\Ventitas\Presentacion\obj\Debug\Presentacion.pdb
